@@ -16,6 +16,7 @@ useSeoMeta({
   ogTitle: title,
   description,
   ogDescription: description,
+  robots: "noindex, nofollow",
 });
 </script>
 
